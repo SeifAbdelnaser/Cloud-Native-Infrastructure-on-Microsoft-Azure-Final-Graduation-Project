@@ -85,6 +85,7 @@ The environment simulates a production-ready enterprise network where Windows an
 ```
 
 ![Architecture Diagram](Screenshots/Architecture%20Diagram.jpeg)
+Screenshots/Architecture Diagram.jpeg
 
 
 
