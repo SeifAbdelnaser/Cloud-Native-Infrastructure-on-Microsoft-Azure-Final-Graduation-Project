@@ -84,7 +84,8 @@ The environment simulates a production-ready enterprise network where Windows an
 
 ```
 
-<img width="1275" height="705" alt="WhatsApp Image 2026-07-23 at 5 15 41 AM" src="https://github.com/user-attachments/assets/8769eb69-8732-445e-97be-6c56a321ad65" />
+![Architecture Diagram](Screenshots/architecture-diagram.jpeg)
+
 
 ---
 
