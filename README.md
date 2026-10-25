@@ -307,7 +307,4 @@ Developed as the final project for the **System Administration Internship at Edu
 - [LinkedIn](https://www.linkedin.com/in/seif-abdelnaser-7a3b03226)
 - [GitHub](https://github.com/SeifAbdelnaser)
 
-
----
-
-⭐ If you found this project interesting, feel free to star the repository.
+--------------------------------------------------------------------------------------------------------------------------------------
